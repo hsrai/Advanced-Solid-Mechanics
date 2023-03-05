@@ -14,13 +14,6 @@ In recent years, there has been a growing interest in the use of computational m
 
 In conclusion, solid mechanics is a fundamental subject in the field of engineering that is concerned with the study of the behavior of solid materials under different types of stress and strain. The subject finds applications in a wide range of industries, including civil engineering, aerospace engineering, and mechanical engineering, and it is essential for the design and analysis of structures and machines. With the increasing use of computational methods in solid mechanics, the field is likely to continue to evolve and play an important role in the development of new materials and technologies.
 
-## Introduction
-
-Elasticity is the property of a material that enables it to return to its
-original shape and size after being subjected to a force.  Elasticity is an
-important concept in engineering, as it allows us to predict how materials
-will behave under different types of stress.
-
 ## Displacement
 
 Displacement is the change in position of a point in a solid body due to the
@@ -118,6 +111,11 @@ Overall, the stress field is a fundamental concept in the study of mechanics and
 ## Elasticity
 
 Elasticity is the property of a material that enables it to return to its
+original shape and size after being subjected to a force.  Elasticity is an
+important concept in engineering, as it allows us to predict how materials
+will behave under different types of stress.
+
+Elasticity is the property of a material that enables it to return to its
 original shape and size after being subjected to a force.  Elasticity is a
 fundamental property of all materials, and it plays a crucial role in many
 engineering applications.
@@ -141,7 +139,7 @@ behavior of solid materials under extreme conditions.  Advanced Mechanics of
 Solids is used to understand the behavior of materials under high
 temperatures, pressures, and other extreme conditions.
 
-Conclusion:
+## Conclusion:
 
 Elasticity, displacement, strain, and stress fields are important concepts
 in engineering and solid mechanics.  The study of elasticity is essential
