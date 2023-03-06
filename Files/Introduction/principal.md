@@ -33,3 +33,13 @@ The concept of principal axes is important in many engineering applications, inc
 The concept of principal axes is also important in fracture mechanics, where it is used to predict the failure of materials. When a material is loaded, the stresses or strains that act on it can cause it to fail along a certain plane. By knowing the orientation of the principal axes, engineers can predict the direction of failure and design structures that are able to withstand the stresses or strains that may cause failure.
 
 In conclusion, principal axes are a fundamental concept in mechanics and engineering that are used to describe the orientation of the planes on which the maximum and minimum normal stresses or strains act. The principal axes are found by diagonalizing the stress or strain tensor and solving the eigenvalue problem. The concept of principal axes is important in many engineering applications, including the design of structures and components and fracture mechanics. Understanding the concept of principal axes is crucial for engineers and scientists working in the field of mechanics and engineering.
+
+
+## Ignore
+
+This expression uses `\$` to display a dollar sign: $\sqrt{\$4}$
+
+
+**The Cauchy-Schwarz Inequality**
+
+$$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
