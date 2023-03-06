@@ -6,12 +6,11 @@
 | 2 | Sham | Civil |
 | 3 | Sita | Mech |
 
+This expression uses `\$` to display a dollar sign: $\sqrt{\$4}$
 
-This expression uses \$ to display a dollar sign: $\sqrt{$4}$
+**The Cauchy-Schwarz Inequality**
 
-The Cauchy-Schwarz Inequality
-
-\[\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)\]
+$$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
 
 ## Table
 
