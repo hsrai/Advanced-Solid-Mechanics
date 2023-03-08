@@ -1,4 +1,4 @@
-[Previous](../../index) || [Index](../../index) || [Next](Displacement)
+[Previous](../../index.md) || [Index](../../index.md) || [Next](Displacement.md)
 
 ### Solid Mechanics
 
@@ -85,4 +85,4 @@ analyse complex structures and machines that
 would be difficult or impossible to analyse
 using traditional analytical methods.
 
-[Previous](../../index) || [Index](../../index) || [Next](Displacement)
+[Previous](../../index.md) || [Index](../../index.md) || [Next](Displacement.md)
