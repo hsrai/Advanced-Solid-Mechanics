@@ -1,3 +1,5 @@
+[Previous](StressField.md) || [Index](../../index.md) || [Next](ConstitutiveRelations.md)
+
 ### Elasticity
 
 Elasticity is the property of a material that 
