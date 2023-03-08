@@ -1,4 +1,4 @@
-[Previous](../../Displacement.md) || [Index](../../index.md) || [Next](StrainField.md)
+[Previous](Displacement.md) || [Index](../../index.md) || [Next](StrainField.md)
 
 ### Strain
 
@@ -26,4 +26,4 @@ study of material behaviour, and is used to
 describe the elastic and plastic deformation
 of materials.
 
-[Previous](../../Displacement.md) || [Index](../../index.md) || [Next](StrainField.md)
+[Previous](Displacement.md) || [Index](../../index.md) || [Next](StrainField.md)
