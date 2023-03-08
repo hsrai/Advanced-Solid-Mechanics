@@ -1,3 +1,8 @@
+<script type="text/javascript" async
+src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHT
+ML">
+</script>
+
 ## Math Test
 
 | Sr No | Name | Class|
