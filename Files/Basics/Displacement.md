@@ -1,3 +1,5 @@
+[Previous](../../Introduction.md) || [Index](../../index.md) || [Next](Strain.md)
+
 ### Displacement
 
 Displacement is a fundamental concept that
@@ -38,3 +40,5 @@ distance between the final and initial
 positions of the object, while the direction
 is given by the line connecting these two
 points.
+
+[Previous](../../Introduction.md) || [Index](../../index.md) || [Next](Strain.md)
