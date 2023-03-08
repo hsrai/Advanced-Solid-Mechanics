@@ -1,4 +1,4 @@
-[Previous](../../Introduction.md) || [Index](../../index.md) || [Next](Strain.md)
+[Previous](Introduction.md) || [Index](../../index.md) || [Next](Strain.md)
 
 ### Displacement
 
@@ -41,4 +41,4 @@ positions of the object, while the direction
 is given by the line connecting these two
 points.
 
-[Previous](../../Introduction.md) || [Index](../../index.md) || [Next](Strain.md)
+[Previous](Introduction.md) || [Index](../../index.md) || [Next](Strain.md)
