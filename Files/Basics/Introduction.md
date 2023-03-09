@@ -12,16 +12,22 @@ various fields of engineering, including
 civil engineering, aerospace engineering,
 and mechanical engineering.
 
-At its core, solid mechanics is concerned
-with understanding how solid materials
-deform, resist external forces, and
-ultimately fail.  The subject is based on a
-set of fundamental principles, including
-Hooke's law, which states that the
-deformation of a material is proportional to
-the applied force or stress, and Newton's
-laws of motion, which describe how external
-forces affect the motion of objects.
+Solid mechanics is one of the important 
+branches of physical science concerned
+with the deformation and motion of 
+continuous solid media under applied
+external loadings such as forces, 
+displacements, and accelerations 
+that result in inertial force in the
+bodies, thermal changes, chemical interactions, 
+electromagnetic forces, and so on.
+
+Solid Mechanics is a subject which deals 
+with how solid bodies raect ehen subjected 
+to various types of loading. The main objective 
+of this subject is to determine the stresses, 
+strain, deformations in structures under 
+actions of loads.
 
 The behaviour of solid materials can be
 studied at different levels, ranging from
@@ -83,6 +89,13 @@ different types of stress and strain.  This
 approach allows engineers and researchers to
 analyse complex structures and machines that
 would be difficult or impossible to analyse
-using traditional analytical methods.
+using traditional analytical methods.With the 
+help of FEM, Analysing of complex structures
+becomes easy by dividing it into smaller elements.
+Some of the softwares used for Finite Element 
+Analysis are Staad-Pro, Autodesk, Freecad, 
+Ansys, Abaqus and many more.
+
+
 
 [Previous](../../index.md) || [Index](../../index.md) || [Next](Displacement.md)
