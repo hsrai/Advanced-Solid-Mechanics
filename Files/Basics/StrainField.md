@@ -15,4 +15,11 @@ It is used in a wide range of applications,
 from materials science and engineering to 
 geology and seismology.
 
+The strain field pattern recognition also known 
+as strain mapping, is used by structural health 
+Monitoring which is based on strain measurement 
+gathered through a network of sensors I.e(strain 
+gauges and fiber optic sensors such as distributed
+sensing).
+
 [Previous](Strain.md) || [Index](../../index.md) || [Next](Stress.md)
