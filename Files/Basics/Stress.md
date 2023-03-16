@@ -27,4 +27,13 @@ of material behaviour, and is used to
 describe the elastic and plastic deformation 
 of materials.
 
+The idea of stress could be used to describe 
+the state of affairs at any point inside a 
+solid in a much more general way. Also, 
+stress could be used to predict when the 
+material will break.Stress tells us how 
+hard- that is, with how much force - the 
+atoms at any point in a solid are being 
+pulled apart.
+
 [Previous](StrainField.md) || [Index](../../index.md) || [Next](StressField.md)
