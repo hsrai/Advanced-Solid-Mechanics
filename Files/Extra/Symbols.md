@@ -1,3 +1,7 @@
+
+[Greek Alphabet](https://en.wikipedia.org/wiki/Greek_alphabet)
+[Mathematical Symbols](https://en.wikipedia.org/wiki/Glossary_of_mathematical_symbols)
+
 1. Delta
     1.1 Lower δ or 𝛿
     1.2 Upper Δ
