@@ -1,5 +1,5 @@
 ## Solving two dimensional problem of solid mechanics
- 
+
 There are several methods to solve
 two-dimensional problems in solid mechanics,
 including:
@@ -71,17 +71,11 @@ rectangular domains, where the solution can
 be expressed in terms of simple, closed-form
 integrals.
 
-Hardeep Singh Rai
-Can I have detailed essay and steps to solve problems by Airy's method?
+## Procedure for solving problems using Airy's stress function:
 
-Certainly!  Here is a detailed explanation
-of the steps involved in solving
-two-dimensional problems in solid mechanics
-using Airy's stress function method:
+1. Step 1: Identify the governing equations
 
-Step 1: Identify the governing equations
-
-The first step is to identify the governing
+    The first step is to identify the governing
 equations that describe the deformation of
 the solid under the applied loads.  These
 equations are typically given in terms of
@@ -89,36 +83,36 @@ the stresses and strains in the material,
 and can be derived from the laws of
 conservation of mass, momentum, and energy.
 
-In two-dimensional problems, the governing
+    In two-dimensional problems, the governing
 equations typically take the form of two
 simultaneous partial differential equations,
 which relate the stress components to the
 derivatives of the Airy stress function. 
 These equations are given by:
 
-σ_xx = ∂²ψ/∂y²
+    σ_xx = ∂²ψ/∂y²
 
-$$\sigma_{xx} = {{\partial^2\psi} \over {\partial y^2}}$$
+    $$\sigma_{xx} = {{\partial^2\psi} \over {\partial y^2}}$$
 
-σ_yy = ∂²ψ/∂x²
+    σ_yy = ∂²ψ/∂x²
 
-$$\sigma_{yy} = {{\partial^2\psi} \over {\partial x^2}}$$
+    $$\sigma_{yy} = {{\partial^2\psi} \over {\partial x^2}}$$
 
-where σ_xx and σ_yy are the normal stresses
+    where σ_xx and σ_yy are the normal stresses
 in the x and y directions, respectively, and
 ψ is the Airy stress function.
 
-Step 2: Define the domain and boundary
+1. Step 2: Define the domain and boundary
 conditions
 
-The next step is to define the domain over
+    The next step is to define the domain over
 which the problem is being solved and the
 boundary conditions that must be satisfied. 
 The domain is typically defined by
 specifying the geometrical shape of the
 solid, such as a rectangle or a circle.
 
-The boundary conditions specify the stress
+    The boundary conditions specify the stress
 or displacement conditions on the boundaries
 of the domain.  For example, the boundary
 conditions might specify that the normal
@@ -126,7 +120,7 @@ stresses are zero on a certain boundary, or
 that the displacement is fixed at a certain
 point.
 
-Step 3: Introduce the Airy stress function
+1. Step 3: Introduce the Airy stress function
 
 The next step is to introduce the Airy
 stress function, which is a scalar function
@@ -144,7 +138,7 @@ B_n, C_n, and D_n are constants, and n is an
 integer that determines the number of terms
 in the series.
 
-Step 4: Solve for the constants
+1. Step 4: Solve for the constants
 
 The next step is to solve for the constants
 A_n, B_n, C_n, and D_n by applying the
@@ -154,7 +148,7 @@ derivatives at the boundaries of the domain,
 and then equating them to the specified
 stress or displacement conditions.
 
-Step 5: Compute the stresses and strains
+1. Step 5: Compute the stresses and strains
 
 Once the constants have been determined, the
 stresses and strains in the material can be
@@ -165,7 +159,7 @@ with respect to x and y, and then
 substituting them into the equations for
 σ_xx and σ_yy.
 
-Step 6: Check for equilibrium and
+1. Step 6: Check for equilibrium and
 compatibility
 
 The final step is to check that the stresses
