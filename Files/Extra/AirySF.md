@@ -92,11 +92,11 @@ These equations are given by:
 
     σ_xx = ∂²ψ/∂y²
 
-    {% raw %}$$\sigma_{xx} = {{\partial^2\psi} \over {\partial y^2}}$${% endraw %}
+    $$\sigma_{xx} = \frac{\partial^2\psi}{\partial y^2}$$
 
     σ_yy = ∂²ψ/∂x²
 
-    {% raw %}$$\sigma_{yy} = {{\partial^2\psi} \over {\partial x^2}}$${% endraw %}
+    $$\sigma_{yy} = \frac{\partial^2\psi}{\partial x^2}$$
 
     where σ_xx and σ_yy are the normal stresses
 in the x and y directions, respectively, and
