@@ -23,7 +23,7 @@ bodies, thermal changes, chemical interactions,
 electromagnetic forces, and so on.
 
 Solid Mechanics is a subject which deals 
-with how solid bodies raect ehen subjected 
+with how solid bodies react when subjected 
 to various types of loading. The main objective 
 of this subject is to determine the stresses, 
 strain, deformations in structures under 
